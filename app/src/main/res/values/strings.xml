@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My intentApp</string>
+    <!-- intent eksplisit-->
+    <string name="move_activity">pindah Aktivitas</string>
+    <string name="this_is_move_activity">ini hasil pindah aktivitas</string>
+    <string name="back_activity">aktivitas kembali</string>
+    <!-- intent implisit-->
+    <string name="dial_number">aktivitas menelepon</string>
+</resources>
