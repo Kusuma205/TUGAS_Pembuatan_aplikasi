@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "aaplikasi_hp"
+rootProject.name = "My intentApp"
 include(":app")
- 
